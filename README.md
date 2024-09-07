@@ -1,8 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif)]
-
+[![MasterHead](https://i.pinimg.com/564x/9e/a1/65/9ea1657c0a9a5fe3c13f84efe12d00c2.jpg)]
 <h1 align="center">Hi 👋, I'm Prince Kelly</h1>
 <h3 align="center">A passionate Machine Learning and Full Stack developer from Cameroon</h3>
-<img align="left" width="400" src="https://i.pinimg.com/564x/9e/a1/65/9ea1657c0a9a5fe3c13f84efe12d00c2.jpg" alt="innovation></img>
+<img align="left" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" alt="innovation></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prokelly&label=Profile%20views&color=0e75b6&style=flat" alt="prokelly" /> </p>
 
