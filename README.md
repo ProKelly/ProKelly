@@ -34,7 +34,7 @@ My focus is on crafting systems that combine **data, intelligence, and design** 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nuxt,vue,tailwind,firestore,pytorch,postgres,aws,docker,linux,digitalocean&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nuxt,vue,tailwind,flutter,firebase,firestore,pytorch,ollama,postgres,aws,docker,linux,digitalocean&theme=dark" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ My focus is on crafting systems that combine **data, intelligence, and design** 
   <a href="https://linkedin.com/in/anyeprince" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
-  <a href="mailto:kellyprinceanye@gmail.com" target="_blank">
+  <a href="mailto:anyeprincekelly816@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
   </a>
 </p>
