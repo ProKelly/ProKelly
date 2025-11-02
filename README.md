@@ -21,11 +21,11 @@ I'm an **AI Engineer** and **Full Stack Developer** passionate about transformin
 I specialize in **AI/ML model design**, **Large Language Models (LLMs)**, and **scalable backend systems**.  
 My focus is on crafting systems that combine **data, intelligence, and design** for real-world impact.
 
-- 🔭 Building [**Dsmartcity**](https://www.dsmartcity.site) – Smart automation for sustainable cities  
-- 💬 Creator of [**Lingua**](https://lingua-sage.vercel.app) – AI-powered language learning assistant  
-- 🤖 Founder of [**ResAssiste (ResAI)**](https://resai-sable.vercel.app) – Intelligent assistant platform  
-- 🧩 Built [**WiseLegend Ltd Platform**](https://wiselegend.vercel.app)  
-- 🌐 Previously developed [**Wakkafine.com**](https://wakkafine.com)  
+- 🔭 Building [**Dsmartcity**](https://www.dsmartcity.site) – Smart automated opportunity search for sustainable cities  
+- 💬 Creator of [**Lingua**](https://lingua-sage.vercel.app) – AI-powered african local language learning platform
+- 🤖 Founder of [**ResAssiste (ResAI)**](https://resai-sable.vercel.app) – Intelligent voice assistant create platform for businesses
+- 🧩 Built [**WiseLegend Ltd Platform**](https://wiselegend.vercel.app)   – Company website for Wise Legend LTD
+- 🌐 Previously developed [**Wakkafine.com**](https://wakkafine.com)   – Automatic bus ticket reservation for travel agencies
 
 > 🚀 *Building the bridge between intelligence and experience through AI-driven products.*
 
