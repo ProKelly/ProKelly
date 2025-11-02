@@ -1,27 +1,21 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:910/1*utpi3J5DhM1zy_km-fhsdA.png)]
 <h1 align="center">Hi 👋, I'm Prince Kelly</h1>
-<h3 align="center">A passionate Machine Learning and Full Stack developer from Cameroon</h3>
+<h3 align="center">I'm an AI/ML epert, a full stack mobile and web deverloper. I build, train and deploy large language models from groundup.</h3>
 <img align="left" width="400" style="margin-right: 10px" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" alt="innovation></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prokelly&label=Profile%20views&color=0e75b6&style=flat" alt="prokelly" /> </p>
+<p align="down"> <img src="https://komarev.com/ghpvc/?username=prokelly&label=Profile%20views&color=0e75b6&style=flat" alt="prokelly" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anyeprince" target="blank"><img src="https://img.shields.io/twitter/follow/anyeprince?logo=twitter&style=for-the-badge" alt="anyeprince" /></a> </p>
+<p align="down"> <a href="https://twitter.com/anyeprince" target="blank"><img src="https://img.shields.io/twitter/follow/anyeprince?logo=twitter&style=for-the-badge" alt="anyeprince" /></a> </p>
 
-- 🔭 I’m currently working on [Orient](https://www.orientlearn.site)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Machine Learning and Web Development Projects**
-
-- 💬 Ask me about **Django, Vue.js, Machine Learning, Web Development**
-
-- 📫 How to reach me **princekelly.tech@gmail.com**
-
-- ⚡ Fun fact **Demonstrating the Kingdom of God**
+- I'm working on [Dsmartcity](https://www.dsmartcity.site)
+- I'm working on [Lingua](https://lingua-sage.vercel.app)
+- I'm working on [ResAssiste](https://resai-sable.vercel.app)
+- I build [wiselegendltd platform](https://wiselegend.vercel.app)
+- I worked on [Wakkafine.com](https://wakkafine.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anyeprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anyeprince" height="30" width="40" /></a>
+<a href="https://twitter.com/anyeprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="anyeprince" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anye prince kelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anye prince kelly" height="30" width="40" /></a>
 </p>
 
